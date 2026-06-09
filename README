@@ -1,0 +1,24 @@
+# Task Manager Application
+
+A Single Page Task Manager Application built using Vanilla JavaScript.
+
+## Features
+
+- Create Task
+- Edit Task
+- Delete Task
+- Search Task
+- Local Storage Persistence
+- No Page Reload
+
+## Technologies Used
+
+- HTML
+- CSS
+- Vanilla JavaScript
+
+## How to Run
+
+1. Open index.html using Live Server.
+2. Add, Edit, Delete and Search tasks.
+3. Tasks are stored in Local Storage.
